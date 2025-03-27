@@ -1,0 +1,6 @@
+Error 1098, Incorrect VFP 9 version - Missing SP1! Expected: 3504 or later, actual: 09.00.0000.2412
+execute, 3908
+FoxBin2Prg: [C:\USERS\PRS01J1M\DOCUMENTS\VISUAL FOXPRO PROJECTS\TESTGIT\FOXBIN2PRG.FXP] (EXE Version: v1.21.04)
+tc_InputFile = [testgit.scx]
+
+Source file: 
